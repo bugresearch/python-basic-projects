@@ -1,0 +1,2 @@
+# pythonbasicprojects
+Python Basit Projeler
